@@ -4,27 +4,87 @@
         "name": "Rick \"Roll\" Astley",
         "occupation": "Unknown",
         "website": "http://youtu.be",
-        "bestOf": "http://www.youtube.com/embed/dQw4w9WgXcQ"
+        "bestOf": "http://www.youtube.com/embed/dQw4w9WgXcQ",
+        "avatar": "http://ic.f.tsatic-cdn.net/1209/635_340/c795c_1209768.jpg"
     },
     {
         "category": "Lolcats",
         "name": "Keyboard Cat",
         "occupation": "Composer",
         "website": "http://www.facebook.com/thekeyboardcat",
-        "bestOf": "https://www.youtube.com/embed/J---aiyznGQ"
+        "bestOf": "https://www.youtube.com/embed/J---aiyznGQ",
+        "avatar": "http://upload.wikimedia.org/wikipedia/en/8/87/Keyboard_cat.jpg"
     },
     {
         "category": "Lolcats",
         "name": "Nyan Cat",
         "occupation": "Astronaut",
         "website": "http://knowyourmeme.com/memes/nyan-cat-pop-tart-cat",
-        "bestOf": "https://www.youtube.com/embed/wZZ7oFKsKzY"
+        "bestOf": "https://www.youtube.com/embed/wZZ7oFKsKzY",
+        "avatar": "https://pbs.twimg.com/profile_images/2370446440/6e2jwf7ztbr5t1yjq4c5.jpeg"
     },
     {
         "category": "Ginger",
         "name": "Angry Ginger",
         "occupation": "Ginger",
         "website": "http://anger-management.supportgroups.com/",
-        "bestOf": "https://www.youtube.com/embed/EY39fkmqKBM"
+        "bestOf": "https://www.youtube.com/embed/EY39fkmqKBM",
+        "avatar": "http://img1.wikia.nocookie.net/__cb20120503011214/coppercab/images/thumb/a/a8/CopperCab_The_Angry_Ginger.png/500px-CopperCab_The_Angry_Ginger.png"
+    },
+    {
+        "category": "Artists",
+        "name": "Eduard Khil",
+        "occupation": "Trolololer",
+        "website": "http://trololololololololololo.com/",
+        "bestOf": "https://www.youtube.com/embed/32UGD0fV45g",
+        "avatar": "https://s3.amazonaws.com/thisismyjam/i/586871186ca5abf0f3471e85d87dd699.jpg?1342887481"
+    },
+    {
+        "category": "Artists",
+        "name": "Eric the carpenter",
+        "occupation": "Drummer",
+        "website": "http://www.meshuggah.net/",
+        "bestOf": "https://www.youtube.com/embed/9Vdsqyte6Ug",
+        "avatar": "http://www.modigmovie.com/uploads/7/8/0/7/7807744/909613209.jpg"
+    },
+    {
+        "category": "Artists",
+        "name": "Mr. Badger",
+        "occupation": "Dancer",
+        "website": "http://www.badgerbadgerbadger.com/",
+        "bestOf": "https://www.youtube.com/embed/EIyixC9NsLI",
+        "avatar": "http://www.albinoblacksheep.com/flash/960/badgers.jpg"
+    },
+    {
+        "category": "Actors",
+        "name": "Weebl",
+        "occupation": "Pie enthusiast",
+        "website": "http://www.weebls-stuff.com/weebl-bob.html",
+        "bestOf": "https://www.youtube.com/embed/XhCZUHrP2vQ",
+        "avatar": "http://www.remix64.com/images/misc/weebl-scene-1.gif"
+    },
+    {
+        "category": "Actors",
+        "name": "Bob",
+        "occupation": "Pie enthusiast",
+        "website": "http://www.weebls-stuff.com/weebl-bob.html",
+        "bestOf": "https://www.youtube.com/embed/hSaTeaTCqlw",
+        "avatar": "http://img2.wikia.nocookie.net/__cb20131221165009/fanfiction/images/5/5e/Weebl_and_bob.jpg"
+    },
+    {
+        "category": "Dogs",
+        "name": "Tuna",
+        "occupation": "Ugly poser",
+        "website": "https://instagram.com/tunameltsmyheart/",
+        "bestOf": "https://www.youtube.com/embed/m52h97q9JMg",
+        "avatar": "http://pix.avaxnews.com/avaxnews/54/0e/00010e54_medium.jpeg"
+    },
+    {
+        "category": "Dogs",
+        "name": "Boo",
+        "occupation": "Pretty poser",
+        "website": "https://www.facebook.com/Boo",
+        "bestOf": "https://www.youtube.com/embed/h-1MnpI20gI",
+        "avatar": "http://media2.popsugar-assets.com/files/2014/01/08/905/n/1922441/a61c52149919a35c_1010297_10151682411488254_1369748570_n.jpg.xxxlarge/i/Meet-Boo.jpg"
     }
 ]
