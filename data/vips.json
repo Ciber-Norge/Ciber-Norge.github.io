@@ -5,7 +5,8 @@
         "occupation": "Unknown",
         "website": "http://youtu.be",
         "bestOf": "http://www.youtube.com/embed/dQw4w9WgXcQ",
-        "avatar": "http://ic.f.tsatic-cdn.net/1209/635_340/c795c_1209768.jpg"
+        "avatar": "http://ic.f.tsatic-cdn.net/1209/635_340/c795c_1209768.jpg",
+        "nr": 1
     },
     {
         "category": "Lolcats",
@@ -13,7 +14,8 @@
         "occupation": "Composer",
         "website": "http://www.facebook.com/thekeyboardcat",
         "bestOf": "https://www.youtube.com/embed/J---aiyznGQ",
-        "avatar": "http://upload.wikimedia.org/wikipedia/en/8/87/Keyboard_cat.jpg"
+        "avatar": "http://upload.wikimedia.org/wikipedia/en/8/87/Keyboard_cat.jpg",
+        "nr": 2
     },
     {
         "category": "Lolcats",
@@ -21,7 +23,8 @@
         "occupation": "Astronaut",
         "website": "http://knowyourmeme.com/memes/nyan-cat-pop-tart-cat",
         "bestOf": "https://www.youtube.com/embed/wZZ7oFKsKzY",
-        "avatar": "https://pbs.twimg.com/profile_images/2370446440/6e2jwf7ztbr5t1yjq4c5.jpeg"
+        "avatar": "https://pbs.twimg.com/profile_images/2370446440/6e2jwf7ztbr5t1yjq4c5.jpeg",
+        "nr": 3
     },
     {
         "category": "Ginger",
@@ -29,7 +32,8 @@
         "occupation": "Ginger",
         "website": "http://anger-management.supportgroups.com/",
         "bestOf": "https://www.youtube.com/embed/EY39fkmqKBM",
-        "avatar": "http://img1.wikia.nocookie.net/__cb20120503011214/coppercab/images/thumb/a/a8/CopperCab_The_Angry_Ginger.png/500px-CopperCab_The_Angry_Ginger.png"
+        "avatar": "http://img1.wikia.nocookie.net/__cb20120503011214/coppercab/images/thumb/a/a8/CopperCab_The_Angry_Ginger.png/500px-CopperCab_The_Angry_Ginger.png",
+        "nr": 4
     },
     {
         "category": "Artists",
@@ -37,7 +41,8 @@
         "occupation": "Trolololer",
         "website": "http://trololololololololololo.com/",
         "bestOf": "https://www.youtube.com/embed/32UGD0fV45g",
-        "avatar": "https://s3.amazonaws.com/thisismyjam/i/586871186ca5abf0f3471e85d87dd699.jpg?1342887481"
+        "avatar": "https://s3.amazonaws.com/thisismyjam/i/586871186ca5abf0f3471e85d87dd699.jpg?1342887481",
+        "nr": 5
     },
     {
         "category": "Artists",
@@ -45,7 +50,8 @@
         "occupation": "Drummer",
         "website": "http://www.meshuggah.net/",
         "bestOf": "https://www.youtube.com/embed/9Vdsqyte6Ug",
-        "avatar": "http://www.modigmovie.com/uploads/7/8/0/7/7807744/909613209.jpg"
+        "avatar": "http://www.modigmovie.com/uploads/7/8/0/7/7807744/909613209.jpg",
+        "nr": 6
     },
     {
         "category": "Artists",
@@ -53,7 +59,8 @@
         "occupation": "Dancer",
         "website": "http://www.badgerbadgerbadger.com/",
         "bestOf": "https://www.youtube.com/embed/EIyixC9NsLI",
-        "avatar": "http://www.albinoblacksheep.com/flash/960/badgers.jpg"
+        "avatar": "http://www.albinoblacksheep.com/flash/960/badgers.jpg",
+        "nr": 7
     },
     {
         "category": "Actors",
@@ -61,7 +68,8 @@
         "occupation": "Pie enthusiast",
         "website": "http://www.weebls-stuff.com/weebl-bob.html",
         "bestOf": "https://www.youtube.com/embed/XhCZUHrP2vQ",
-        "avatar": "http://www.remix64.com/images/misc/weebl-scene-1.gif"
+        "avatar": "http://www.remix64.com/images/misc/weebl-scene-1.gif",
+        "nr": 8
     },
     {
         "category": "Actors",
@@ -69,7 +77,8 @@
         "occupation": "Pie enthusiast",
         "website": "http://www.weebls-stuff.com/weebl-bob.html",
         "bestOf": "https://www.youtube.com/embed/hSaTeaTCqlw",
-        "avatar": "http://img2.wikia.nocookie.net/__cb20131221165009/fanfiction/images/5/5e/Weebl_and_bob.jpg"
+        "avatar": "http://img2.wikia.nocookie.net/__cb20131221165009/fanfiction/images/5/5e/Weebl_and_bob.jpg",
+        "nr": 9
     },
     {
         "category": "Dogs",
@@ -77,7 +86,8 @@
         "occupation": "Ugly poser",
         "website": "https://instagram.com/tunameltsmyheart/",
         "bestOf": "https://www.youtube.com/embed/m52h97q9JMg",
-        "avatar": "http://pix.avaxnews.com/avaxnews/54/0e/00010e54_medium.jpeg"
+        "avatar": "http://pix.avaxnews.com/avaxnews/54/0e/00010e54_medium.jpeg",
+        "nr": 10
     },
     {
         "category": "Dogs",
@@ -85,6 +95,7 @@
         "occupation": "Pretty poser",
         "website": "https://www.facebook.com/Boo",
         "bestOf": "https://www.youtube.com/embed/h-1MnpI20gI",
-        "avatar": "http://media2.popsugar-assets.com/files/2014/01/08/905/n/1922441/a61c52149919a35c_1010297_10151682411488254_1369748570_n.jpg.xxxlarge/i/Meet-Boo.jpg"
+        "avatar": "http://media2.popsugar-assets.com/files/2014/01/08/905/n/1922441/a61c52149919a35c_1010297_10151682411488254_1369748570_n.jpg.xxxlarge/i/Meet-Boo.jpg",
+        "nr": 11
     }
 ]
