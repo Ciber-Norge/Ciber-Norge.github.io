@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ciber-work-hours demo</title>
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    </head>
+    <body class="container-fluid">
+        <h1>ciber-work-hours demo</h1>
+
+        <form class="form">
+			<div class="form-group">
+				<label class="control-label" for="date">Velg en dag</label>
+            	<input class="form-control" type="date" id="date" placeholder="Test date" />
+			</div>
+        </form>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Land
+                    </th>
+                    <th>
+                        Arbeidstimer
+                    </th>
+					<th>
+						I måneden
+					</th>
+                </tr>
+            </thead>
+            <tbody id="result"></tbody>
+        </table>
+
+        <script src="//rawgithub.com/Ciber-Norge/ciber-work-hours/master/dist/ciber-work-hours.js"></script>
+        <script>
+            var ciberWorkHours = require('ciber-work-hours');
+            var languages = ['no', 'dk', 'se', 'fi'];
+            var workHours = {};
+            languages.forEach(function (langCode) {
+                workHours[langCode] = ciberWorkHours(langCode);
+            });
+            var dateElement = document.querySelector('#date');
+            dateElement.onchange = function () {
+                var date = this.valueAsDate;
+                var resultElement = document.querySelector('#result');
+                while (resultElement.firstChild) {
+                    resultElement.removeChild(resultElement.firstChild);
+                }
+                languages.forEach(function (langCode) {
+                    var result = workHours[langCode].calculate(date);
+					var monthResult = workHours[langCode].inMonth(date);
+                    var langEl = document.createElement('td');
+                    langEl.textContent = langCode;
+                    var resultEl = document.createElement('td');
+                    resultEl.textContent = result;
+					var monthEl = document.createElement('td');
+					monthEl.textContent = monthResult;
+                    var rowEl = document.createElement('tr');
+                    rowEl.appendChild(langEl);
+                    rowEl.appendChild(resultEl);
+					rowEl.appendChild(monthEl);
+                    resultElement.appendChild(rowEl);
+                });
+            };
+        </script>
+    </body>
+</html>
